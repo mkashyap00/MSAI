@@ -66,4 +66,41 @@ We pretty much covered the entire seminal book "Reinforcement Learning" by Sutto
 - Morphology, Fross-lingual/Multilingual Methods, Language Grounding, Ethics in NLP
 
 ## 6. AI in Healthcare
+- AI in Healthcare Overview
+- Intoroduction to MIMIC (Medical Information Mart for Intensive Care) dataset
+- Evidence-based Care, Common Data Model
+- EMR Semantics - ICD Diagnosis Code
+- EMR Semantics - SNOMED CT
+- NLP I (Word2Vec, tSNE)
+- NLP II (ClinicalBERT)
+- EMR Sematics - LOINC & RxNORM
+- Readmission Prediction
+- Datashare - FHIR (Fast Healthcare Interoperability Resources)
+- Length of Stay (LoS) Prediction
+- Explainable AI in Medicine
+- LLM in Healthcare
+
+  ## 7. Case Studies in Machine Learning
+  - ML for Shared Micromobility
+  - ML for Housing Market & COVID19
+  - ML for Urban Climate Sensing
+  - ML for Public Health Analysis
+  - ML for Image Processing
+  - ML for Shared Economy
+  - ML for Shared Vehicle
+  - ML for Urban Informatics
+  - NLP & Social Media
+  - ML for Recommendation System
+  - Medical Imaging
+ 
+  ## Advances in Deep Learning
+  The course is divided into 4 parts.
+
+  ### Part 1: Introduction
+  - Structures of Deep Networks
+  - Training Deep Networks
+  - Modern GPU Architectures
+ 
+  ### Part 2: Advanced Training
+  - Training Large Models
 
