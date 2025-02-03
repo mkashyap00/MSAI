@@ -80,27 +80,57 @@ We pretty much covered the entire seminal book "Reinforcement Learning" by Sutto
 - Explainable AI in Medicine
 - LLM in Healthcare
 
-  ## 7. Case Studies in Machine Learning
-  - ML for Shared Micromobility
-  - ML for Housing Market & COVID19
-  - ML for Urban Climate Sensing
-  - ML for Public Health Analysis
-  - ML for Image Processing
-  - ML for Shared Economy
-  - ML for Shared Vehicle
-  - ML for Urban Informatics
-  - NLP & Social Media
-  - ML for Recommendation System
-  - Medical Imaging
+## 7. Case Studies in Machine Learning
+- ML for Shared Micromobility
+- ML for Housing Market & COVID19
+- ML for Urban Climate Sensing
+- ML for Public Health Analysis
+- ML for Image Processing
+- ML for Shared Economy
+- ML for Shared Vehicle
+- ML for Urban Informatics
+- NLP & Social Media
+- ML for Recommendation System
+- Medical Imaging
  
-  ## Advances in Deep Learning
-  The course is divided into 4 parts.
+## 8. Advances in Deep Learning
+The course is divided into 4 parts.
 
-  ### Part 1: Introduction
-  - Structures of Deep Networks
-  - Training Deep Networks
-  - Modern GPU Architectures
+### Part 1: Introduction
+- Structures of Deep Networks
+- Training Deep Networks
+- Modern GPU Architectures
  
-  ### Part 2: Advanced Training
-  - Training Large Models
+### Part 2: Advanced Training
+- Training Large Models
+- Mixed Precision Training, Distributed Training, Zero Redundancy Training
+- Low Rank Adapters (LoRA), Quantization, Quantized LoRA (QLoRA)
+- Low-Rank Projections
+- Checkpointing
+- FlashAttention
+- Open-source Infrastructure for Model Training
+
+### Part 3: Generative Models
+-  Variable Auto Encoders
+-  Generative Adversarial Networks
+-  Flow-Based Models
+-  Auto-Regressive Generation
+-  Vector Quantization
+-  Dall-E
+-  Diffusion Models, Latent Diffusion and SOTA Models
+
+### Part 4: Large Language Models
+- Architectures
+- Generation
+- Instruction Tuning
+- RLHF
+- Dpo
+- Tasks and Datasets
+- Efficient LLM Training and Inference
+- Sequence Parallelism, Page Attention, Speculative Decoding
+- Open-source Infrastructure for LLMs
+- Tool Use, Structured Outputs, Constrained Decoding, Long Context
+- Retrieval Augmented Generation (RAG)
+- Structured Dialogs
+- Limitations of LLMs
 
